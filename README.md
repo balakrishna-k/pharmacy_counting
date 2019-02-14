@@ -51,7 +51,8 @@ Look in the output directory for default cases.
 ### Tests
 * `Test 1`: Default Test. Passed
 * `Decimals in Data`: Test to make sure it works with decimals.
-* `Prescription/Prescription.java`: This is a model of each prescription, used primarily during the data reading phase.
-* `Records/DrugMap.java`: This file contains the implementations for the HashMap and comparator
+* `Different order`: Permuted ordering of default test case.
+* `Weird_Commas`: While testing with the large dataset, I realised that there was a weird format for one of the records.
+I decided to correct for that and handle that scenario as well. This is a test case containing multiple commas between quotes.
 
 Due to a lack of time, I was unable to write a full fledged make file. Apologies for that.
