@@ -22,13 +22,12 @@ and it would have been a waste of resources after spending the previous step sor
 
 ## Prerequisites
 - Java 8
--
-- MAC OS or Windows 10 (Ubuntu Windows' Bash)
+- Command Line Access (MAC OS or Linux should be fine. Do not know about Windows' Bash)
 
 ## Installation
 * Clone the repo if needed:
 ```
-git clone https://github.com/balakrishna-k/HighDynamicRanging.git
+git clone https://github.com/balakrishna-k/pharmacy_counting.git
 ```
 
 * Run the program:
