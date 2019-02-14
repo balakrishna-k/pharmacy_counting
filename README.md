@@ -54,4 +54,4 @@ Look in the output directory for default cases.
 * `Prescription/Prescription.java`: This is a model of each prescription, used primarily during the data reading phase.
 * `Records/DrugMap.java`: This file contains the implementations for the HashMap and comparator
 
-#### Due to a lack of time, I was unable to write a full fledged make file. Apologies for that.
+Due to a lack of time, I was unable to write a full fledged make file. Apologies for that.
